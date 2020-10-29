@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
 import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
-import Slider, { Range } from 'rc-slider';
-import 'rc-slider/assets/index.css';
+
 
 function Room() {
     var roomstate = useSelector(state => state.rooms)
