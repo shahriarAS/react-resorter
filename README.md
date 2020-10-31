@@ -1,3 +1,21 @@
+Resorter is a complete featured room booking website.
+
+Hello,
+
+This is a complete Resort Booking Website created with REACT. I have included most of the features of a complete booking website. I have added
+<ol>
+  <li>Room Filter</li>
+  <li>Cart System</li>
+  <li>Checkout Page</li>
+</ol>
+
+# Technology I used
+<ol>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Tailwind CSS</li>
+</ol>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
