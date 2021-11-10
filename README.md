@@ -1,4 +1,4 @@
-Resorter is a complete featured room booking website.
+Resorter is a complete featured room booking website. 
 
 Hello,
 
